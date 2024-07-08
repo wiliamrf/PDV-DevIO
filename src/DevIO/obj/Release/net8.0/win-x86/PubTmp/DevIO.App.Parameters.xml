@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="curso.mvc" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\wilia\\Desktop\\Developer\\MinhaAppMvcCompleta\\src\\DevIO\\obj\\Release\\net8\.0\\win-x86\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="DevIO.Data.Context.MeuDbContext" description="" value="Server=(localdb)\mssqllocaldb;Database=MinhaAppMvcCompleta;Trusted_Connection=True;MultipleActiveResultSets=true" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\wilia\\Desktop\\Developer\\MinhaAppMvcCompleta\\src\\DevIO\\obj\\Release\\net8\.0\\win-x86\\PubTmp\\EFSQLScripts\\DevIO\.Data\.Context\.MeuDbContext\.sql$" />
+  </parameter>
+</parameters>
